@@ -1,0 +1,28 @@
+{
+  "name": "profitfrog-project-website",
+  "version": "1.0.0",
+  "description": "profitfrog-project-website",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-Fortune/profitfrog-project-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel-Fortune/profitfrog-project-website/issues"
+  },
+  "homepage": "https://github.com/Samuel-Fortune/profitfrog-project-website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "once": "^1.4.0"
+  }
+}
