@@ -280,7 +280,7 @@
               >
                 By harnessing the power of
                 <span
-                  class="text-blue-300 cursor-pointer hover:border-b-2 hover:border-blue-300"
+                  class="text-blue-300  cursor-pointer hover:border-b-2 hover:border-blue-300"
                   >dynamic planning</span
                 >, you will free yourself from guessing…and from being locked
                 into static business plans that don’t work.
@@ -299,22 +299,22 @@
 
         <section>
           <div
-            class="mx-auto container gap-10 mt-20 flex flex-col p-5 pt-3 sm:flex-col md:flex-row lg:flex-row"
+            class="mx-auto container gap-20 mt-20 flex flex-col p-5 pt-3 sm:flex-col md:flex-row lg:flex-row"
           >
             <div class="w-full sm:w-full md:w-[47%]">
               <img
-                class="rounded-2xl shadow-xl"
+                class="rounded-2xl shadow-xl w-full"
                 src="https://profitfrog.imgix.net/img/dynamic-planning-690x391.svg?auto=format&fit=max&w=1920"
                 alt=""
               />
             </div>
             <div class="w-full sm:w-full md:w-1/2 flex flex-col gap-5">
-              <h1 class="font-bold text-[24px] leading-[33px] opacity-[0.75]">
+              <h1 class="font-bold font-Montserrat text-[24px] leading-[33px] opacity-[0.75]">
                 Go From Stressful Spreadsheets To <br />
                 Successful Planning
               </h1>
               <p
-                class="sm:w-full md:max-w-[340px] text-[#74757B] text-[16px] leading-[24px] opacity-70 pb-5"
+                class="sm:w-full font-Montserrat md:max-w-[340px] text-[#74757B] text-[16px] leading-[24px] opacity-70 pb-5"
               >
                 Excel spreadsheets are too complex for the average small
                 business owner. We let you easily build financial forecasts to
@@ -344,7 +344,7 @@
         class="w-full md:px-16 flex flex-row place-content-center justify-items-center justify-center place-items-center"
       >
         <h1
-          class="w-[69%] flex h-full sm:w-[60%] md:w-[70%] opacity-[0.78] justify-center  text-[36px] items-center font-[600] leading-[46px]"
+          class="w-[69%] flex h-full sm:w-[60%] md:w-full opacity-[0.78] justify-center  text-[36px] items-center font-[600] font-Montserrat leading-[46px]"
         >
           See Why Small Businesses Choose Profit Frog
         </h1>
@@ -429,7 +429,7 @@
         >
           <span class="w-full flex flex-col pb-10">
             <h1
-              class="font-[600] sm:w-full md:w-[92%] flex sm:justify-start md:justify-end text-[36px] leading-[46px] mb-4 opacity-[0.75]"
+              class="font-[600] font-Montserrat sm:w-full md:w-full flex sm:justify-start md:justify-end text-[36px] leading-[46px] mb-4 opacity-[0.75]"
             >
               How Profit Frog Helps Business <br> Owners
             </h1>
@@ -439,7 +439,7 @@
             >
               <span>
                 <img
-                  class="sm:min-h-full sm:min-w-full sm:max-w-full md:min-h-full md:min-w-[90%] md:max-h-full md:max-w-[90%]"
+                  class="sm:min-h-full sm:min-w-full sm:max-w-full md:min-h-full md:min-w-[94%] md:max-h-full md:max-w-[94%]"
                   src="https://profitfrog.imgix.net/img/small-business-owner-gym-690x391.svg?auto=format&fit=max&w=1380"
                   alt=""
                 />
@@ -450,7 +450,7 @@
               <span>
 
                 <p
-                  class="sm:max-w-full md:max-w-[345px] pt-10 flex flex-col justify-between text-[#74757B] text-[16px] leading-[24px] opacity-70 pb-5"
+                  class="sm:max-w-full md:max-w-[345px] pt-10 flex flex-col justify-between text-[#74757B] text-[16px] leading-[24px] font-Montserrat opacity-70 pb-5"
                 >
                   You shouldn’t need an MBA to get a handle on your profitability.
                   Profit Frog gives you a clear, precise view of what’s happening
@@ -492,7 +492,7 @@
         class="px-16 flex flex-row flex-wrap place-content-center items-center justify-items-center"
       >
         <h1
-          class="sm:w-full md:w-full lg:w-[45%] opacity-[0.78] justify-center place-content-center text-[33px] items-center font-[600] leading-[46px]"
+          class="sm:w-full md:w-full lg:w-[45%] opacity-[0.78]  font-Montserratjustify-center place-content-center text-[33px] items-center font-[600] leading-[46px]"
         >
           Profit Management Made
           <strong class="text-lime-400"
@@ -609,6 +609,69 @@
           </div>
         </div>
       </div>
+    </section>
+
+    <!--Seventh Section-->
+    <section class="w-full">
+      <div class="pt-16 pb-16">
+        <div class="mx-auto w-full place-content-center justify-center flex flex-col place-items-center items-center ">
+          <h1 class="text-[36px] font-[600] font-Montserrat leading-[46px] mb-7">Start Your Free Trial Today</h1>
+          <div class="w-full place-content-center justify-center flex flex-col place-items-center items-center">
+  
+            <p class="text-[#8f8d9e] text-[22px] font-Montserrat opacity-70 font-[600] leading-[33px] ">Get A Better Understanding Of Your Profitability.</p> 
+            <p class="mb-10">
+              <strong class="text-[#3d3c44] font-Montserrat text-[22px] font-[600] leading-[33px]">Start Your Free 14-Day Trial</strong> 
+              <span class="#8f8d9e text-[22px] opacity-80 font-Montserrat font-[600]"> of Profit Frog.</span></p>
+          </div>
+          <button class="bg-lime-400 font-[500] min-w-[260px] rounded-lg leading-[45px] text-[16px] text-white justify-center items-center  h-full">Start Your Free Trial Today</button>
+        </div>
+
+      </div>
+      
+  
+    </section>
+    <!--Eighth Section-->
+    <section>
+      <div class="w-full h-full bg-[#f4fbff] pb-20">
+        <div class="mx-auto justify-center place-content-center w-full  pt-16 flex-wrap  ">
+          <div class="w-full flex flex-row justify-center items-center place-content-center place-items-center">
+            <h1 class="font-Montserrat items-center text-[36px] font-[600] mb-[50px]">What Profit Frog Customers are Saying</h1>
+          </div>
+          <div class="mx-auto shadow-xl h-full sm:h-full md:h-[27rem] lg:h-[27rem] w-full gap-10 flex flex-col sm:flex-col md:flex-row lg:flex-row max-w-[75rem] justify-around items-center place-content-center bg-white rounded-2xl overflow-hidden">
+            <div class="w-full sm:w-full md:w-[33%] h-full">
+              <img class="w-full bg-cover rounded-xl" src="https://profitfrog.imgix.net/img/300x376-home.png?auto=format&fit=max&w=640" alt="">
+            </div>
+            <div class="max-w-[518px] w-full mx-auto">
+              <h3 class="text-[22px] font-[600] font-Montserrat pb-6 opacity-80">"Profit Frog not only saved me a ton of time, it gave me the confidence to make the right strategic decisions about my business as we continue to grow."</h3>
+              <span class="w-full opacity-70 font-Montserrat text-[18px] text-[#3d3c44]">Zach S. - Small Business Owner</span>
+            </div>
+
+
+          </div>
+
+
+        </div>
+
+      </div>
+    </section>
+
+    <!--Import Data Section-->
+    <section>
+      <div class="w-full h-full pb-20 mx-auto justify-center place-content-center pt-16 flex-wrap">
+        <div class="w-full">
+          <h1>Import Data From QuickBooks or Excel</h1>
+        </div>
+        <div class="w-full">
+          <span>
+            <img src="https://profitfrog.imgix.net/img/redesign_quickbooks%20logo.svg?auto=format&fit=max&w=640" alt="">
+
+          </span>
+          <span>
+            <img src="https://profitfrog.imgix.net/img/excel-site.svg?auto=format&fit=max&w=640" alt="">
+          </span>
+        </div>
+      </div>
+
     </section>
   </body>
 </html>
