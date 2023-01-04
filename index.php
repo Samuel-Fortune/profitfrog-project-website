@@ -673,5 +673,43 @@
       </div>
 
     </section>
+
+    <!--Profit Frog FAQ Section-->
+    <section>
+
+    </section>
+
+    <!--Footer-->
+     
+    <footer class="text-gray-600 body-font">
+      <div class="container px-5 justify-around py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
+        <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
+          <a class="flex title-font font-medium items-center justify-center text-gray-900">
+            
+            <span class="ml-3 text-xl font-Montserrat">Contact us </span>
+          </a>
+          <p class="mt-2 text-sm flex title-font font-medium items-center justify-center text-gray-900 font-Montserrat">Privacy</p>
+        </div>
+        <div class="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left text-center">
+          
+          
+          <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+            <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">© Profit frog</h2>
+            <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+              <button class="flex flex-row w-full">
+                <div></div>
+                <span class="w-full">LinkedIn</span>
+              </button>
+            </div>
+          </div>
+          <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+            <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3 font-Montserrat">Resources</h2>
+            
+          </div>
+        </div>
+      </div>
+      
+    </footer>
+     
   </body>
 </html>
