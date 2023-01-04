@@ -635,7 +635,7 @@
       <div class="w-full h-full bg-[#f4fbff] pb-20">
         <div class="mx-auto justify-center place-content-center w-full  pt-16 flex-wrap  ">
           <div class="w-full flex flex-row justify-center items-center place-content-center place-items-center">
-            <h1 class="font-Montserrat items-center text-[36px] font-[600] mb-[50px]">What Profit Frog Customers are Saying</h1>
+            <h1 class="font-Montserrat items-center text-[36px] font-[600] opacity-80 mb-[50px]">What Profit Frog Customers are Saying</h1>
           </div>
           <div class="mx-auto shadow-xl h-full sm:h-full md:h-[27rem] lg:h-[27rem] w-full gap-10 flex flex-col sm:flex-col md:flex-row lg:flex-row max-w-[75rem] justify-around items-center place-content-center bg-white rounded-2xl overflow-hidden">
             <div class="w-full sm:w-full md:w-[33%] h-full">
@@ -657,11 +657,11 @@
 
     <!--Import Data Section-->
     <section>
-      <div class="w-full h-full pb-20 mx-auto justify-center place-content-center pt-16 flex-wrap">
-        <div class="w-full">
-          <h1>Import Data From QuickBooks or Excel</h1>
+      <div class="w-full h-full pb-20 mx-auto gap-14 flex justify-center place-content-center py-16 flex-wrap">
+        <div class="w-full mx-auto flex flex-row justify-center place-content-center">
+          <h1 class="text-[36px] font-[600] opacity-80 leading-[46px] text-center font-Montserrat">Import Data From QuickBooks or Excel</h1>
         </div>
-        <div class="w-full">
+        <div class="w-full sm:w-full md:max-w-[890px] p-5 lg:max-w-[890px] mx-auto shadow-xl justify-around flex-wrap items-center flex flex-row  place-content-center">
           <span>
             <img src="https://profitfrog.imgix.net/img/redesign_quickbooks%20logo.svg?auto=format&fit=max&w=640" alt="">
 
