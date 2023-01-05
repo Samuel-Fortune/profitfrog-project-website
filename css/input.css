@@ -3,3 +3,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*.info-menu {
+  display: none  !important;
+}
+.info-menu.active {
+  display: flex;
+}*/
