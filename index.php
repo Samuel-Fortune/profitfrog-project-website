@@ -8,6 +8,15 @@
     <link rel="stylesheet" href="css/input.css">
     <!--Stylesheet-->
     <link href="css/output.css" rel="stylesheet" />
+
+    <!-- Favicon Images -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon/favicon-16x16.png">
+
+    <!-- Glider Js -->
+    <script src="https://unpkg.com/@glidejs/glide"></script>
+    
     <!--Jquery Script-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 
@@ -16,9 +25,9 @@
   <body class="relative box-border">
     <!--Main Nav Section-->
     <section>
-      <header class="text-[#3d3c44] body-font shadow-xl brightness-95 h-[19vh]">
+      <header class="text-[#3d3c44] body-font shadow-xl brightness-95 h-24">
         <div
-          class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center"
+          class="w-full flex flex-wrap p-5 flex-col md:flex-row place-content-center justify-center items-center"
         >
           <a
             class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0"
@@ -27,6 +36,7 @@
             <a href="./index.php">
               <svg
                 width="91"
+                class=""
                 height="71"
                 viewBox="0 0 91 71"
                 fill="none"
@@ -185,7 +195,7 @@
           </a>
           <!--Top Nav Menu-->
           <nav
-            class="md:ml-20 pt-[30px] w-[60%] items-start flex flex-wrap font-Montserrat font-medium text-base "
+            class="ml-80 sm:ml-5 md:ml-10 lg:ml-10 pt-2 w-4/5 items-start flex justify-between flex-wrap font-Montserrat font-medium text-base "
           >
             <a
               class="mr-10 h-14 hover:text-gray-900 hover:border-b-4 hover:border-lime-300"
@@ -229,22 +239,24 @@
                 </ul>
               </div>
             </span>
+
+            <!--Login and Sign Up Section-->
+            <div
+            class=" justify-end flex-grow flex-shrink flex flex-wrap p-5 items-center"
+            >
+              <button
+                class="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:text-green-500 rounded text-base font-Montserrat mt-4 md:mt-0"
+              >
+                Login
+              </button>
+              <button
+                class="inline-flex items-center bg-lime-400 border-0 py-2 px-9 focus:outline-none hover:bg-lime-300 text-white rounded-lg text-base font-Montserrat mt-4 md:mt-0"
+              >
+                Sign Up
+              </button>
+            </div>
           </nav>
-          <!--Login and Sign Up Section-->
-          <div
-            class="mx-auto justify-end flex-grow flex-shrink flex flex-wrap p-5 items-center"
-          >
-            <button
-              class="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:text-green-500 rounded text-base font-Montserrat mt-4 md:mt-0"
-            >
-              Login
-            </button>
-            <button
-              class="inline-flex items-center bg-lime-400 border-0 py-2 px-9 focus:outline-none hover:bg-lime-300 text-white rounded-lg text-base font-Montserrat mt-4 md:mt-0"
-            >
-              Sign Up
-            </button>
-          </div>
+          
         </div>
       </header>
     </section>

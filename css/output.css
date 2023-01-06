@@ -1016,6 +1016,22 @@ video {
   margin-bottom: 3rem;
 }
 
+.ml-10{
+  margin-left: 2.5rem;
+}
+
+.ml-14{
+  margin-left: 3.5rem;
+}
+
+.ml-72{
+  margin-left: 18rem;
+}
+
+.ml-80{
+  margin-left: 20rem;
+}
+
 .box-border{
   box-sizing: border-box;
 }
@@ -1220,6 +1236,10 @@ video {
   height: 6rem;
 }
 
+.h-\[10vh\]{
+  height: 10vh;
+}
+
 .max-h-full{
   max-height: 100%;
 }
@@ -1358,6 +1378,30 @@ video {
 
 .w-12{
   width: 3rem;
+}
+
+.w-\[86\%\]{
+  width: 86%;
+}
+
+.w-4\/5{
+  width: 80%;
+}
+
+.w-\[\]{
+  width: ;
+}
+
+.w-\[\%\]{
+  width: %;
+}
+
+.w-\[71\%\]{
+  width: 71%;
+}
+
+.w-\[85\%\]{
+  width: 85%;
 }
 
 .min-w-\[260px\]{
@@ -2603,10 +2647,6 @@ video {
   background-color: rgb(255 0 0 / var(--tw-bg-opacity));
 }
 
-.bg-\[\]{
-  background-color: ;
-}
-
 .bg-opacity-10{
   --tw-bg-opacity: 0.1;
 }
@@ -2813,6 +2853,11 @@ video {
   padding-bottom: 4rem;
 }
 
+.py-\[60px\]{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
 .py-24{
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -2931,16 +2976,6 @@ video {
 .px-48{
   padding-left: 12rem;
   padding-right: 12rem;
-}
-
-.py-\[\]{
-  padding-top: ;
-  padding-bottom: ;
-}
-
-.py-\[60px\]{
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 
 .pt-\[30px\]{
@@ -3137,10 +3172,6 @@ video {
 
 .font-Montserrat{
   font-family: Montserrat, sans-serif;
-}
-
-.font-\[\]{
-  font-family: ;
 }
 
 .text-base{
@@ -3480,10 +3511,6 @@ video {
 
 .text-\[\#336699\]\/\[\.35\]{
   color: rgb(51 102 153 / .35);
-}
-
-.text-\[\]{
-  color: ;
 }
 
 .text-opacity-25{
@@ -3977,11 +4004,6 @@ video {
   display: flex;
 }*/
 
-.first-letter\:bg-\[\#f4fbff\]::first-letter{
-  --tw-bg-opacity: 1;
-  background-color: rgb(244 251 255 / var(--tw-bg-opacity));
-}
-
 .hover\:rotate-90:hover{
   --tw-rotate: 90deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -4094,6 +4116,10 @@ video {
     right: 50%;
   }
 
+  .sm\:ml-5{
+    margin-left: 1.25rem;
+  }
+
   .sm\:h-full{
     height: 100%;
   }
@@ -4168,6 +4194,22 @@ video {
 
   .md\:mt-0{
     margin-top: 0px;
+  }
+
+  .md\:ml-0{
+    margin-left: 0px;
+  }
+
+  .md\:ml-2{
+    margin-left: 0.5rem;
+  }
+
+  .md\:ml-5{
+    margin-left: 1.25rem;
+  }
+
+  .md\:ml-10{
+    margin-left: 2.5rem;
   }
 
   .md\:flex{
@@ -4282,6 +4324,14 @@ video {
 }
 
 @media (min-width: 1024px){
+  .lg\:ml-1{
+    margin-left: 0.25rem;
+  }
+
+  .lg\:ml-10{
+    margin-left: 2.5rem;
+  }
+
   .lg\:h-\[27rem\]{
     height: 27rem;
   }
