@@ -13,7 +13,7 @@
 
     <title>ProfitFrog</title>
   </head>
-  <body class="relative">
+  <body class="relative box-border">
     <!--Main Nav Section-->
     <section>
       <header class="text-[#3d3c44] body-font shadow-xl brightness-95 h-[19vh]">
@@ -696,7 +696,111 @@
     </section>
 
     <!--Profit Frog FAQ Section-->
-    <section>
+    <section class="w-full font-Montserrat px-5 flex flex-wrap bg-[#f4fbff] place-content-center justify-center mx-auto py-[60px] text-[#3d3c44] box-border">
+      <h2 class="w-full font-Montserrat flex  flex-row place-content-center justify-center items-center text-[36px] font-[600] mb-[50px]">Profit Frog FAQ</h2>
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <!---->
+      <div>
+        <div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
 
     </section>
 
