@@ -80,3 +80,19 @@
   height: max-content;
   transition: max-height 0.4s ease-in-out;
 }
+.show {
+  background-color: hsla(0, 0%, 100%, 0.4);
+  height: 100%;
+  padding: 8px;
+  position: absolute;
+  top: 0px;
+  display: none;
+}
+.show.active {
+  background-color: hsla(0, 0%, 100%, 0.4);
+  height: 100%;
+  padding: 8px;
+  position: absolute;
+  top: 0px;
+  display: block;
+}

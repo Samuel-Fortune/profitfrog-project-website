@@ -213,7 +213,7 @@
     <section>
       <div class="w-full h-full bg-[#f4fbff]">
         <div
-          class="mx-auto container mt-20 pt-20 pb-20 flex flex-col p-6 sm:flex-col md:flex-row lg:flex-row"
+          class="mx-auto container mt-20 pt-8 pb-20 flex flex-col p-6 sm:flex-col md:flex-row lg:flex-row"
         >
           <div class="w-full sm:w-full md:w-[95%] gap-5 flex flex-col">
             <span class="flex flex-row gap-2">
@@ -234,7 +234,7 @@
             </span>
             <div class="flex relative flex-col w-full mt-1">
               <p
-                class="font-[400] text-[18px] font-Montserrat sm:max-w-full md:max-w-[500px]"
+                class="font-[400] text-[18px] font-Montserrat w-full sm:max-w-full md:max-w-[560px]"
               >
                 I am an entrepreneur with a history of building successful
                 businesses.
@@ -242,7 +242,7 @@
                 <br />
               </p>
               <p
-                class="font-[400] text-[18px] font-Montserrat sm:max-w-full md:max-w-[500px]"
+                class="font-[400] text-[18px] font-Montserrat w-full sm:max-w-full md:max-w-[560px] lg:max-w-[560px]"
               >
                 I was the founder & CEO of Mohu, the Cord Cutting Company, who
                 invented the best-selling paper-thin Leaf antenna. We
@@ -254,7 +254,7 @@
                 <br />
               </p>
               <p
-                class="font-[400] text-[18px] font-Montserrat sm:max-w-full md:max-w-[500px]"
+                class="font-[400] text-[18px] font-Montserrat w-full sm:max-w-full md:max-w-[560px]"
               >
                 Over the course of 15 years of building businesses, I realized
                 that one of the biggest challenges of running a business was
@@ -264,14 +264,14 @@
                 <br />
               </p>
               <p
-                class="font-[400] text-[18px] font-Montserrat sm:max-w-full md:max-w-[500px]"
+                class="font-[400] text-[18px] font-Montserrat w-full sm:max-w-full md:max-w-[560px]"
               >
                 There was no software that made this process easy.
                 <br />
                 <br />
               </p>
               <p
-                class="font-[400] text-[18px] font-Montserrat sm:max-w-full md:max-w-[500px]"
+                class="font-[400] text-[18px] font-Montserrat w-full sm:max-w-full md:max-w-[560px]"
               >
                 I built Profit Frog to change that.
               </p>
@@ -294,7 +294,7 @@
                   height: 0px;
                   min-width: 65%;
                   max-width: 100%;
-                  min-height: 73%;
+                  min-height: 65%;
                   max-height: 100%;
                   vertical-align: middle;
                 "
@@ -308,8 +308,115 @@
     </section>
 
     <!--Our story section-->
-    <section>
+    <section
+      style="
+        min-height: 420px;
+        display: flex;
+        width: 100%;
+        padding: 60px 40px;
+        color: #3d3c44;
+      "
+    >
       <div></div>
+      <div
+        class="max-w-[770px] flex flex-col flex-wrap justify-center justify-items-center place-content-center w-full items-center mx-auto"
+      >
+        <h2 class="text-[36px] font-[600] leading-[46px] m-0">Our Story</h2>
+        <div
+          class="text-[18px] text-center flex flex-col font-Montserrat flex-nowrap font-[400] leading-[27px] items-center mt-14"
+        >
+          <p class="flex font-Montserrat">
+            We are a team of entrepreneurs who have found over the years that
+            building a business is not easy. Far from it.
+          </p>
+          <br />
+          <p class="font-Montserrat">
+            We all shared the same frustrations. There is always something
+            competing for our time and attention, which requires a constant scan
+            of our priorities and where we place our efforts.
+          </p>
+          <br />
+          <p class="font-Montserrat">
+            And then it occurred to us: when we had a plan, as simple as it may
+            be, we all seemed happier, less stressed & organized - even when the
+            plan changed every week. There was something about a plan that
+            united the team in a way nothing else could. But the problem? There
+            was no tool that made planning easy, accurate & fun...
+          </p>
+          <br />
+          <p>And hence - Profit Frog was born.</p>
+          <br />
+          <p class="font-Montserrat">
+            We are all like-minded individuals. We have a thirst for controlling
+            our own destiny, believe that we are in charge of the results, and
+            will always look for smarter ways to do things.
+          </p>
+          <br />
+          <p class="font-Montserrat">
+            We hope Profit Frog brings you the clarity and performance that your
+            business deserves.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!--image card-->
+    <section style="padding: 60px 40px 40px; color: #3d3c44">
+      <div class="max-w-[996px] mx-auto flex justify-between flex-wrap">
+        <div
+          class="relative min-w-[237px] w-[237px] rounded-2xl overflow-hidden"
+          style="margin: 0 0 20px"
+          id="image-hover1"
+        >
+          <div class="overflow-hidden relative m-0"></div>
+          <img
+            src="./images/john-hernandez-2-332x358.avif"
+            style="
+              visibility: inherit;
+              position: inherit;
+              inset: 0px;
+              box-sizing: border-box;
+              padding: 0px;
+              border: none;
+              margin: auto;
+              display: block;
+              min-width: 100%;
+              max-width: 100%;
+              min-height: 100%;
+              max-height: 100%;
+            "
+            alt=""
+          />
+          <div class="show">
+            <h4
+              class="text-[23px] font-Montserrat font-[600] leading-[32px]"
+              style="margin: 0 0 4px"
+            >
+              John Hernandez
+            </h4>
+            <h5
+              class="text-[12px] font-Montserrat font-[500] leading-[18px] uppercase tracking-[.3px]"
+              style="margin: 0 0 8px"
+            >
+              Marketing
+            </h5>
+            <p
+              class="text-[12px] font-Montserrat font-[500] leading-[18px] tracking-[-0.7px]"
+              style="margin: 0 0 8px"
+            >
+              John is a Profit Frog Enthusiast, a business strategy connoisseur,
+              and a leader in Digital Marketing. He is passionate about creating
+              remarkable customer experiences and engaging content. When he's
+              not writing, you'll find him in South Florida, leaning next to a
+              “ventanita”, sipping on a Cuban espresso.
+            </p>
+          </div>
+        </div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
     </section>
 
     <!--Footer-->
