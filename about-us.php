@@ -419,6 +419,116 @@
       </div>
     </section>
 
+    <!--Our advantage section-->
+    <section
+      class=""
+      style="
+        background-color: rgb(244, 251, 255);
+        padding: 60px 0 60px 40px;
+        margin: 0 auto;
+        position: relative;
+        color: #3d3c44;
+      "
+    >
+      <div
+        class="max-w-[1170px] flex flex-col items-center justify-center mx-auto z-10"
+      >
+        <h2
+          class="text-center text-[36px] font-[600] leading-[46px]"
+          style="margin: 0 0 60px"
+        >
+          Our advantages
+        </h2>
+        <div class="w-full flex gap-7 overflow-x-scroll">
+          <div
+            class="rounded-[20px] bg-white min-w-[324px] flex-1"
+            style="padding: 21px 16px 16px"
+          >
+            <img
+              src="./images/heart.svg"
+              style="vertical-align: middle"
+              alt=""
+            />
+            <h4
+              class="mt-[10px] font-[600] text-[23px] leading-[32px] mb-[10px] font-Montserrat"
+            >
+              Simple
+            </h4>
+            <div
+              class="font-[400] text-[18px] leading-[27px] text-[#132234]"
+              style="letter-spacing: 0.2px"
+            >
+              <p class="mt-0 mb-4 font-Montserrat">
+                Profit Frog's interface was designed with a "less is more"
+                approach, making it fun and intuitive to use.
+              </p>
+            </div>
+          </div>
+          <div
+            class="rounded-[20px] bg-white min-w-[324px] flex-1"
+            style="padding: 21px 16px 16px"
+          >
+            <img
+              src="./images/heart.svg"
+              style="vertical-align: middle"
+              alt=""
+            />
+            <h4
+              class="mt-[10px] font-[600] text-[23px] leading-[32px] mb-[10px] font-Montserrat"
+            >
+              Quick
+            </h4>
+            <div
+              class="font-[400] text-[18px] leading-[27px] text-[#132234]"
+              style="letter-spacing: 0.2px"
+            >
+              <p class="mt-0 mb-4 font-Montserrat">
+                Running a business can be stressful. Profit Frog changes that.
+                We make the process engaging, quick and exciting. Profits drive
+                motivation and confidence in a business, so why not make the
+                process fun?
+              </p>
+            </div>
+          </div>
+          <div
+            class="rounded-[20px] bg-white min-w-[324px] flex-1"
+            style="padding: 21px 16px 16px"
+          >
+            <img
+              src="./images/heart.svg"
+              style="vertical-align: middle"
+              alt=""
+            />
+            <h4
+              class="mt-[10px] font-[600] text-[23px] leading-[32px] mb-[10px] font-Montserrat"
+            >
+              Focus
+            </h4>
+            <div
+              class="font-[400] text-[18px] leading-[27px] text-[#132234]"
+              style="letter-spacing: 0.2px"
+            >
+              <p class="mt-0 mb-4 font-Montserrat">
+                Plans unite and energize teams around a common goal. They are
+                the only way to guarantee alignment & focus. Profit Frog was
+                designed to bring a new level of focus to your business.
+              </p>
+            </div>
+          </div>
+        </div>
+        <button
+          class="cursor-pointer bg-lime-500 hover:bg-lime-400 shadow-none text-white inline-flex justify-center items-center font-[500] rounded-lg border-none min-w-[120px] transition-all duration-75 text-[16px] overflow-visible"
+          style="margin: 40px auto 0; padding: 10px 30px"
+        >
+          Sign Up For Free
+        </button>
+      </div>
+    </section>
+
+    <!--Follow section-->
+    <section>
+      <div></div>
+    </section>
     <!--Footer-->
 
     <footer>

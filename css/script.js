@@ -143,7 +143,7 @@ $("#fag_menu14").click(function () {
 
 $("#image-hover1").mouseover(function () {
     let __that = $(this);
-    __that.find(".show").toggleClass(".active");
+    __that.find(".show").toggleClass("active");
     console.log('working');
 
 });
