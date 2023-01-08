@@ -413,7 +413,7 @@
         </div>
         <div
           class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
-          style="margin: 0 0 20px "
+          style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
           <img
@@ -459,7 +459,7 @@
         </div>
         <div
           class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
-          style="margin: 0 0 20px "
+          style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
           <img
@@ -507,7 +507,7 @@
         </div>
         <div
           class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
-          style="margin: 0 0 20px "
+          style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
           <img
@@ -794,6 +794,6 @@
       </section>
     </footer>
 
-    <script src="css/script.js"></script>
+    <script src="./js/script.js"></script>
   </body>
 </html>
