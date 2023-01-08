@@ -530,7 +530,7 @@
     <section class="w-full font-Montserrat px-5 flex flex-wrap bg-[#f4fbff] place-content-center justify-center mx-auto py-[60px] text-[#3d3c44] box-border">
       <h2 class="w-full font-Montserrat flex  flex-row place-content-center justify-center items-center text-[36px] font-[600] opacity-[2] mb-[50px]">Profit Frog FAQ</h2>
       <!--card1-->
-      <div class="bg-white rounded-3xl max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu">
+      <div class="bg-white rounded-3xl max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative ">
@@ -541,7 +541,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">Does Profit Frog Integrate With Quickbooks?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Yes, Profit Frog integrates with QuickBooks Online (QBO). Easily import your data from QBO and you’ll soon be planning, budgeting, and forecasting in Profit Frog. You’ll be able to generate dynamic forecasts of future financial performance and profitability under different scenarios.</p>
             </div>
@@ -551,7 +551,7 @@
       </div>
 
       <!--card 2-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu2">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -562,7 +562,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">Does Profit Frog replace Quickbooks?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown2">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">No Profit Frog does not replace QuickBooks or your current accounting solution. Think of us as a financial planning add-on that gives you insights and reporting capabilities that online accounting software does not provide.</p>
               <p class="mt-0 mb-4">Essentially, our financial performance management software extends the capabilities of your current online accounting solution.</p>
@@ -573,7 +573,7 @@
       </div>
 
       <!--card 3-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu3">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -584,7 +584,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">Can I change or cancel my Profit Frog plan anytime?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown3">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Yes, Profit Frog has no long-term contracts and will allow you to change or cancel your plan at any time.</p>
             </div>
@@ -594,7 +594,7 @@
       </div>
 
       <!--card 4-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu4">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -605,7 +605,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">How does Profit Frog onboarding work?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown4">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Profit Frog is so easy that you can get set up all by yourself. That said, we do offer a free, one-on-one white glove onboarding service when you sign up for the free trial.</p>
             </div>
@@ -615,7 +615,7 @@
       </div>
 
       <!--card 5-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu5">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -626,7 +626,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">What is the best budgeting and forecasting software for small businesses?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown5">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Profit Frog is the best forecasting software for small businesses because we eliminate clutter and focus on the metrics that matter most to a small business owner. Specifically, we model profitability under different dynamic conditions.</p>
               <p class="mt-0 mb-4">Profit Frog takes all your actuals and uses them to forecast multiple possible futures that you can manipulate. We call these “profitability models” and they allow you to create a dynamic plan that can be adjusted as conditions change. </p>
@@ -638,7 +638,7 @@
       </div>
 
       <!--card 6-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu6">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -649,7 +649,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">What is financial forecasting software?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown6">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Financial forecasting software helps companies visualize the future under different types of conditions. Depending on the forecasting software, companies can model cashflow, costs, and other key metrics based on their financial data and business goals. </p>
               <p class="mt-0 mb-4">Profit Frog allows business owners to model profitability under dynamic conditions. We focus on profitability because profits are what matter to small business owners. </p>
@@ -660,7 +660,7 @@
       </div>
 
       <!--card 7 -->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu7">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -671,7 +671,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">Does QuickBooks do forecasting?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown7">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">If you’re a QuickBooks Premier, Accountant, or Enterprise user, you do have access to some forecasting capabilities. Specifically, an accounting tool such as QuickBooks Online Advanced can help you forecast revenue based on expense tracking and previous performance. </p>
               <p class="mt-0 mb-4">Firstly, business accounting software forecasting is based on past performance. What if you want to forecast based on other variables that have nothing to do with the past? Profit Frog allows you to do just that. </p>
@@ -688,7 +688,7 @@
       </div>
 
       <!--card 8-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu8">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -699,7 +699,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">Is Profit Frog a business budget software?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown8">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Profit Frog includes budget processes, along with so much more. Our software solution focuses on helping you maximize profitability by being aware of all the key factors of your business. From <a class="text-[#1fabff]" href="https://profitfrog.com/cost-of-goods-sold">COGS</a> to sales to overhead, you will have an extremely accurate view of present inflows and expenses, and will be able to forecast future profitability. In that sense, we do function as a budget software, because we help you with expense management and visibility. But we go way beyond budget planning.</p>
               <p class="mt-0 mb-4">Where other budgeting tools are static, our budget and forecast processes deliver a dynamic plan that you can consistently update as actual conditions change.</p>
@@ -710,7 +710,7 @@
       </div>
 
       <!--card 9 -->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu9">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -721,7 +721,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">How do you forecast a P&L?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown9">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">You forecast profit and loss by forecasting total sales, forecasting expenses, and subtracting the latter from the former. Profit Frog does this easily for small business owners, and allows them to manipulate different key variables to see how future profits change under different conditions. </p>
               <p class="mt-0 mb-4">With Profit Frog, you don’t need entire finance teams and budget maestros on staff. You just need to follow our easy step-by-step process to generate your own profit forecasts. </p>
@@ -732,7 +732,7 @@
       </div>
 
       <!--card 10-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu10">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -743,7 +743,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">What is a 12-month projection?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown10">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">A rolling 12-month projection is one of many forecasting methods that looks 12 months into the future. Unlike a calendar year forecast, the 12-month rolling forecast continually adds an additional month to the forecast each time a month ends. Thus, the 12-month projection helps you plan and forecast for the next consecutive 12 months into the future.</p>
             </div>
@@ -753,7 +753,7 @@
       </div>
 
       <!--card 11-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu11">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -764,7 +764,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">How do you forecast profit margin?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown11">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Profit Frog automatically forecasts your future profit margins dynamically. Here is the formula for forecasting profit margin: </p>
               <ol class="list-decimal pl-11 mb-4">
@@ -782,7 +782,7 @@
       </div>
 
       <!--card 12-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu12">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -793,7 +793,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">How do you forecast profit in Excel?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown12">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">Excel forecasting is typically done by specialists in large corporations that have the budget to hire said specialists. We created Profit Frog to spare you (and ourselves) the headache of forecasting in Excel.</p>
               <p class="mt-0 mb-4">If you must know, however, the basics of how to create a Microsoft Excel forecast can be found in <a class="text-[#1fabff]" href="https://support.microsoft.com/en-us/office/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd">this article</a>.</p>
@@ -804,7 +804,7 @@
       </div>
 
       <!--card 13-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu13">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -815,7 +815,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">Is Profit Frog a demand forecasting software?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown13">
+          <div class=" cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">We are not exactly a demand forecasting solution; we are something even better. You can use Profit Frog to model profitability by adjusting expected demand, expenses, sales volume, and much more. This is known as adaptive planning, and it is the next step beyond demand forecasting.</p>
             </div>
@@ -825,7 +825,7 @@
       </div>
 
       <!--card 14-->
-      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl" id="fag_menu14">
+      <div class="bg-white rounded-3xl mt-5 max-w-[1050px] w-full mx-auto relative overflow-hidden select-none shadow-2xl fag-menu">
         <div class="relative">
           <div class="p-4 flex items-center">
             <div class="relative">
@@ -836,7 +836,7 @@
 
             <h3 class="font-Montserrat font-[600] text-[16px] leading-[19px] mb-0">Is Profit Frog a business management software?</h3>
           </div>
-          <div class=" cursor-pointer hidden overflow-hidden" id="menu-dropdown14">
+          <div class="cursor-pointer hidden overflow-hidden menu-dropdown">
             <div class="" style="border-top: 1px solid #b0adc4; padding: 20px 4rem 40px; opacity: .7;">
               <p class="mt-0 mb-4">We are not a complete project management or business management platform, which most small and medium sized businesses don’t need anyway. Rather, we are a financial management software focused on profit optimization. From your supply chain through your sales cycle, we help you track expenses and model which business decisions will bring greater profits.</p>
               <p class="mt-0 mb-4">Essentially, we help you find the path of least resistance to make and keep more money. This helps you save time, have less stress, and be more productive. These are the end goals of every corporate performance management software program, anyway, right?</p>

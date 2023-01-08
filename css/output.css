@@ -4355,85 +4355,7 @@ video {
   display: flex;
 }*/
 
-#menu-dropdown {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown2 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown3 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown4 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown5 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown6 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown7 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown8 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown9 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown10 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown11 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown12 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown13 {
-  height: -moz-max-content;
-  height: max-content;
-  transition: max-height 0.4s ease-in-out;
-}
-
-#menu-dropdown14 {
+.menu-dropdown {
   height: -moz-max-content;
   height: max-content;
   transition: max-height 0.4s ease-in-out;
@@ -4445,20 +4367,20 @@ video {
   padding: 8px;
   position: absolute;
   top: 0px;
+  overflow: hidden;
   display: none;
-  transition: all;
-  transition-duration: 2s;
+  visibility: hidden;
 }
 
-.show.active {
-  background-color: hsla(0, 0%, 100%, 0.4);
-  height: 100%;
-  padding: 8px;
-  position: absolute;
-  top: 0px;
+.image-hover .active {
   display: block;
-  transition: all;
-  transition-duration: 2s;
+  visibility: visible;
+}
+
+.image-hover:hover,
+.image-hover:hover p,
+.image-hover:hover .show {
+  cursor: url(../images/icon-pointer.svg) 2 2, auto !important;
 }
 
 .hover\:border-b-2:hover{
@@ -4827,5 +4749,3 @@ video {
     padding-bottom: 2.5rem;
   }
 }
-
-
