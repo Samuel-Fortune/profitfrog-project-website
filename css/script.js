@@ -1,22 +1,3 @@
-//$("#mk").click(function () { 
-//$(".info-menu").toggleClass("active");
-
-
-//});
-
-//$("#mk").mouseover(function () {
-//$(".info-menu").toggleClass("active");
-
-//});
-//$("#mk").mouseleave(function () {
-
-
-
-//});
-
-
-
-
 
 
 $("#fag_menu").click(function () {
@@ -133,17 +114,9 @@ $("#fag_menu14").click(function () {
 });
 
 
-/*$("#image-hover1").mouseover(function () {
-    let __that = $(this);
-    __that.find(".show").addClass('active');
-    console.log('working');
 
 
-});*/
-
-$("#image-hover1").mouseover(function () {
+$("#image-hover1").hover(function () {
     let __that = $(this);
     __that.find(".show").toggleClass("active");
-    console.log('working');
-
 });

@@ -87,6 +87,8 @@
   position: absolute;
   top: 0px;
   display: none;
+  transition: all;
+  transition-duration: 2s;
 }
 .show.active {
   background-color: hsla(0, 0%, 100%, 0.4);
@@ -95,4 +97,8 @@
   position: absolute;
   top: 0px;
   display: block;
+  transition: all;
+  transition-duration: 2s;
 }
+
+

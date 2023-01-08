@@ -364,7 +364,7 @@
     <section style="padding: 60px 40px 40px; color: #3d3c44">
       <div class="max-w-[996px] mx-auto flex justify-between flex-wrap">
         <div
-          class="relative min-w-[237px] w-[237px] rounded-2xl overflow-hidden"
+          class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden"
           style="margin: 0 0 20px"
           id="image-hover1"
         >
@@ -387,7 +387,7 @@
             "
             alt=""
           />
-          <div class="show">
+          <div class="show transition-all">
             <h4
               class="text-[23px] font-Montserrat font-[600] leading-[32px]"
               style="margin: 0 0 4px"
