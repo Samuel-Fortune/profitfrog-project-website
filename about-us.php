@@ -714,6 +714,11 @@
     <section>
       <div></div>
     </section>
+
+    <!--Values Section-->
+    <section>
+      <div></div>
+    </section>
     <!--Footer-->
 
     <footer>
