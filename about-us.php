@@ -93,7 +93,10 @@
       }
     </style>
   </head>
-  <body class="font-Montserrat text-[#3d3c44]">
+  <body
+    class="font-Montserrat text-[#3d3c44]"
+    style="background-color: #f9f9f9"
+  >
     <!--Main Nav Section-->
     <section class="w-full">
       <header
@@ -723,7 +726,6 @@
           max-width: 900px;
           min-height: 300px;
           margin: 0 auto;
-          
         "
       >
         <div class="inline-block max-w-full overflow-hidden relative m-0">
@@ -751,8 +753,8 @@
             alt=""
           />
         </div>
-        <div class="" style="max-width: 40%; width: 100%;">
-          <h3 class="text-3xl font-[600]">
+        <div class="" style="max-width: 40%; width: 100%">
+          <h3 class="text-3xl font-[600] mb-3">
             Follow us for Profit Frog insights
           </h3>
           <button
@@ -790,13 +792,46 @@
     </section>
 
     <!--Values Section-->
-    <section>
-      <div></div>
+    <section
+      class="max-w-[1170px] w-full items-center m-auto text-[#3d3c44]"
+      style="
+        padding: 60px 40px;
+        justify-content: space-between;
+        display: flex;
+        flex-direction: row;
+      "
+    >
+      <div
+        class="w-[540px] max-h-[306px] h-full rounded-[20px] overflow-hidden"
+      >
+        <div class="overflow-hidden relative m-0 min-h-[306px]">
+          <div class="pt-11"></div>
+          <img
+            class="shadow-lg rounded-lg absolute inset-0 p-0 m-auto w-0 h-0 min-w-full max-w-full min-h-full max-h-full object-cover"
+            style="visibility: inherit"
+            src="./images/mark-buff-and-clark-5-845x561.avif"
+            alt=""
+          />
+        </div>
+      </div>
+      <div class="flex flex-col justify-center p-0 w-full max-w-[391px] ml-5">
+        <h4 class="text-[36px] font-[600] leading-[46px] m-0">Values</h4>
+        <div class="text-[16px] font-[400] leading-[24px] m-0">
+          <br />
+          <ul class="list-disc ml-10">
+            <li>People with humility, integrity, and grit are awesome</li>
+            <li>Obsess over our customer's success</li>
+            <li>Profits are an intention, not a reward</li>
+            <li>Plan your work and work your plan</li>
+            <li>Simple is better</li>
+          </ul>
+        </div>
+      </div>
     </section>
     <!--Footer-->
 
     <footer>
-      <section class="p-largerScreenPadding py-3">
+      <section class="p-largerScreenPadding py-3 bg-white">
         <div
           class="place-content-center place-items-center grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3"
         >

@@ -38,3 +38,15 @@
 .image-hover:hover .show {
   cursor: url(../images/icon-pointer.svg) 2 2, auto !important;
 }
+
+.shape::after {
+  content: "";
+  position: absolute;
+  width: 220px;
+  height: 220px;
+  -webkit-transform: skewY(25deg);
+  transform: skewY(25deg);
+  right: 0;
+  bottom: 170px;
+  background-color: white;
+}
