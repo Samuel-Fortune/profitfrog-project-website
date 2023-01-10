@@ -364,7 +364,7 @@
     <section style="padding: 60px 40px 40px; color: #3d3c44">
       <div class="max-w-[996px] mx-auto flex justify-between flex-wrap">
         <div
-          class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
+          class="relative min-w-[237px] w-[237px] rounded-2xl overflow-hidden image-hover"
           style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
@@ -386,7 +386,7 @@
             "
             alt=""
           />
-          <div class="show transition-all">
+          <div class="show">
             <h4
               class="text-[23px] font-Montserrat font-[600] leading-[32px]"
               style="margin: 0 0 4px"
@@ -411,8 +411,9 @@
             </p>
           </div>
         </div>
+        <!--image card 2-->
         <div
-          class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
+          class="relative min-w-[237px] w-[237px] rounded-2xl overflow-hidden image-hover"
           style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
@@ -434,7 +435,7 @@
             "
             alt=""
           />
-          <div class="show transition-all">
+          <div class="show">
             <h4
               class="text-[23px] font-Montserrat font-[600] leading-[32px]"
               style="margin: 0 0 4px"
@@ -457,8 +458,9 @@
             </p>
           </div>
         </div>
+        <!--image card 3-->
         <div
-          class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
+          class="relative min-w-[237px] w-[237px] rounded-2xl overflow-hidden image-hover"
           style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
@@ -480,33 +482,32 @@
             "
             alt=""
           />
-          <div class="show transition-all">
+          <div class="show">
             <h4
               class="text-[23px] font-Montserrat font-[600] leading-[32px]"
               style="margin: 0 0 4px"
             >
-              John Hernandez
+              Nikita Zhmurko
             </h4>
             <h5
               class="text-[12px] font-Montserrat font-[500] leading-[18px] uppercase tracking-[.3px]"
               style="margin: 0 0 8px"
             >
-              Marketing
+              Backend Development
             </h5>
             <p
               class="text-[12px] font-Montserrat font-[500] leading-[18px] tracking-[-0.7px]"
               style="margin: 0 0 8px"
             >
-              John is a Profit Frog Enthusiast, a business strategy connoisseur,
-              and a leader in Digital Marketing. He is passionate about creating
-              remarkable customer experiences and engaging content. When he's
-              not writing, you'll find him in South Florida, leaning next to a
-              “ventanita”, sipping on a Cuban espresso.
+              Algorithms, APIs, and frameworks are my thing. When I'm not
+              creating databases or moving bits around, I am watching football
+              and watching more football. Oh, and I really like computers.
             </p>
           </div>
         </div>
+        <!--image card 4-->
         <div
-          class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
+          class="relative min-w-[237px] w-[237px] rounded-2xl overflow-hidden image-hover"
           style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
@@ -528,33 +529,33 @@
             "
             alt=""
           />
-          <div class="show transition-all">
+          <div class="show">
             <h4
               class="text-[23px] font-Montserrat font-[600] leading-[32px]"
               style="margin: 0 0 4px"
             >
-              John Hernandez
+              Christine Buff
             </h4>
             <h5
               class="text-[12px] font-Montserrat font-[500] leading-[18px] uppercase tracking-[.3px]"
               style="margin: 0 0 8px"
             >
-              Marketing
+              Social Media
             </h5>
             <p
               class="text-[12px] font-Montserrat font-[500] leading-[18px] tracking-[-0.7px]"
               style="margin: 0 0 8px"
             >
-              John is a Profit Frog Enthusiast, a business strategy connoisseur,
-              and a leader in Digital Marketing. He is passionate about creating
-              remarkable customer experiences and engaging content. When he's
-              not writing, you'll find him in South Florida, leaning next to a
-              “ventanita”, sipping on a Cuban espresso.
+              I love posting, creating, and helping people succeed. I believe
+              small business owners are superheroes and will save the world.
+              When I'm not chasing my teens around, I'm shopping for deals,
+              playing Candy Crush, or running micro marathons.
             </p>
           </div>
         </div>
+        <!--image card 5-->
         <div
-          class="relative min-w-[237px] transition-all w-[237px] rounded-2xl overflow-hidden image-hover"
+          class="relative min-w-[237px] w-[237px] rounded-2xl overflow-hidden image-hover"
           style="margin: 0 0 20px"
         >
           <div class="overflow-hidden relative m-0"></div>
@@ -576,28 +577,26 @@
             "
             alt=""
           />
-          <div class="show transition-all">
+          <div class="show">
             <h4
               class="text-[23px] font-Montserrat font-[600] leading-[32px]"
               style="margin: 0 0 4px"
             >
-              John Hernandez
+              Elizabeth
             </h4>
             <h5
               class="text-[12px] font-Montserrat font-[500] leading-[18px] uppercase tracking-[.3px]"
               style="margin: 0 0 8px"
             >
-              Marketing
+              Program Management
             </h5>
             <p
               class="text-[12px] font-Montserrat font-[500] leading-[18px] tracking-[-0.7px]"
               style="margin: 0 0 8px"
             >
-              John is a Profit Frog Enthusiast, a business strategy connoisseur,
-              and a leader in Digital Marketing. He is passionate about creating
-              remarkable customer experiences and engaging content. When he's
-              not writing, you'll find him in South Florida, leaning next to a
-              “ventanita”, sipping on a Cuban espresso.
+              People, software, and communications are my passions. I love
+              working with brilliant teams and savvy creators. When I'm not
+              herding cheetahs, I am dancing. Life is better when you dance.
             </p>
           </div>
         </div>
@@ -711,8 +710,71 @@
     </section>
 
     <!--Follow section-->
-    <section>
-      <div></div>
+    <section class="w-full h-full bg-white" style="padding: 100px 30px">
+      <div
+        class="flex justify-around items-center bg-[#f9f9f9] rounded-[20px] w-full sm:w-full md:max-w-[900px] lg:md:max-w-[900px] min-h-[300px] m-auto"
+      >
+        <div class="inline-block max-w-full overflow-hidden relative m-0">
+          <div class="block max-w-full">
+            <img class="align-middle" src="./images/download.svg" alt="" />
+          </div>
+          <img
+            src="./images/socials_illustaration.svg"
+            style="
+              visibility: inherit;
+              position: absolute;
+              inset: 0px;
+              box-sizing: border-box;
+              padding: 0px;
+              border: none;
+              margin: auto;
+              display: block;
+              width: 0px;
+              height: 0px;
+              min-height: 100%;
+              max-height: 100%;
+              min-width: 100%;
+              max-width: 100%;
+            "
+            alt=""
+          />
+        </div>
+        <div class="max-w-[40%] w-full">
+          <h3 class="text-3xl font-[600]">
+            Follow us for Profit Frog insights
+          </h3>
+          <button
+            class="hover:bg-[#1565c0] hover:transition-all"
+            style="
+              padding: 10px 20px;
+              box-shadow: none;
+              min-width: 160px;
+              cursor: pointer;
+              border-radius: 100px;
+              background-color: #4ea0d0;
+              color: #fff;
+              display: inline-flex;
+              justify-content: center;
+              align-items: center;
+              font-weight: 500;
+              transition: 0.2s;
+              font-size: 16px;
+              overflow: visible;
+            "
+          >
+            <span
+              class="relative flex gap-1 align-middle items-center bg-transparent rounded-2xl group transition-all duration-200 cursor-pointer"
+            >
+              <img src="./images/linkedin.svg" alt="Likedin Logo" />
+
+              <span
+                class="p-1 px-3 transition-all duration-200 group-hover:duration-200"
+                >LinkedIn</span
+              >
+            </span>
+          </button>
+        </div>
+      </div>
     </section>
 
     <!--Values Section-->
