@@ -712,7 +712,19 @@
     <!--Follow section-->
     <section class="w-full h-full bg-white" style="padding: 100px 30px">
       <div
-        class="flex justify-around items-center bg-[#f9f9f9] rounded-[20px] w-full sm:w-full md:max-w-[900px] lg:md:max-w-[900px] min-h-[300px] m-auto"
+        class=""
+        style="
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          background-color: #f9f9f9;
+          border-radius: 20px;
+          width: 100%;
+          max-width: 900px;
+          min-height: 300px;
+          margin: 0 auto;
+          
+        "
       >
         <div class="inline-block max-w-full overflow-hidden relative m-0">
           <div class="block max-w-full">
@@ -739,7 +751,7 @@
             alt=""
           />
         </div>
-        <div class="max-w-[40%] w-full">
+        <div class="" style="max-width: 40%; width: 100%;">
           <h3 class="text-3xl font-[600]">
             Follow us for Profit Frog insights
           </h3>
