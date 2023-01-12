@@ -3997,6 +3997,11 @@ video {
   color: rgb(51 102 153 / .35);
 }
 
+.text-lime-300{
+  --tw-text-opacity: 1;
+  color: rgb(190 242 100 / var(--tw-text-opacity));
+}
+
 .text-opacity-25{
   --tw-text-opacity: 0.25;
 }
@@ -4553,6 +4558,26 @@ video {
   right: 0;
   bottom: 170px;
   background-color: white;
+}
+
+.checked\:bg-blue-500:checked{
+  --tw-bg-opacity: 1;
+  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+}
+
+.checked\:bg-lime-300:checked{
+  --tw-bg-opacity: 1;
+  background-color: rgb(190 242 100 / var(--tw-bg-opacity));
+}
+
+.indeterminate\:bg-gray-300:indeterminate{
+  --tw-bg-opacity: 1;
+  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
+}
+
+.indeterminate\:bg-lime-300:indeterminate{
+  --tw-bg-opacity: 1;
+  background-color: rgb(190 242 100 / var(--tw-bg-opacity));
 }
 
 .hover\:border-b-2:hover{

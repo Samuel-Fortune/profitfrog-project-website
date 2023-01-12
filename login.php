@@ -344,7 +344,6 @@
                   <input
                     style="
                       border: 1px solid #e2e2e2;
-                      appearance: none;
                       width: 24px;
                       height: 24px;
                       border-radius: 5px;
