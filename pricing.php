@@ -135,7 +135,7 @@
                 </li>
                 <li class="group">
                   <a
-                    class="font-semibold py-7 border-b-4 border-transparent transiton-all duration-200 rounded-tl-sm rounded-tr-md hover:text-customGreen cursor-pointer hover:border-active"
+                    class="font-semibold py-7 border-b-4 border-transparent transiton-all duration-200 rounded-tl-sm rounded-tr-md hover:text-customGreen cursor-pointer border-active hover:border-active"
                     href="./pricing.php"
                     >Pricing</a
                   >
@@ -218,8 +218,8 @@
         class="bg-[#f4fbff] w-full"
         style="padding: 0 20px 50px; overflow-x: hidden"
       >
-        <section class="max-w-[1170px] m-auto text-center">
-          <span class="flex m-auto" style="padding: 15px 3px; width: 1170px">
+        <section class=" m-auto text-center px-20 pt-5">
+          <span class="flex m-auto">
             <div class="">
               <a class="underline text-[#132234]" href="./index.php">Main</a>
               <span>/</span>

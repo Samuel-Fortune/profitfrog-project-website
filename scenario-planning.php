@@ -128,7 +128,7 @@
                 </li>
                 <li class="group">
                   <a
-                    class="font-semibold py-7 border-b-4 border-transparent transiton-all duration-200 rounded-tl-sm rounded-tr-md hover:text-customGreen cursor-pointer hover:border-active"
+                    class="font-semibold py-7 border-b-4 border-transparent transiton-all duration-200 rounded-tl-sm rounded-tr-md hover:text-customGreen cursor-pointer border-active hover:border-active"
                     href="./scenario-planning.php"
                     >Scenario Planning</a
                   >
@@ -218,8 +218,8 @@
         class="bg-[#f4fbff] w-full"
         style="padding: 0 20px 50px; overflow-x: hidden"
       >
-        <section class="max-w-[1170px] m-auto text-center">
-          <span class="flex m-auto" style="padding: 15px 3px; width: 1170px">
+        <section class=" mx-auto text-center px-20 pt-5">
+          <span class="flex m-auto">
             <div class="">
               <a class="underline text-[#132234]" href="./index.php">Main</a>
               <span>/</span>
@@ -229,13 +229,118 @@
                 class="text-[#132234]"
                 style="text-decoration: none; pointer-events: none"
                 href="/pricing.php"
-                >Pricing</a
+                >Scenario Pricing</a
               >
             </div>
           </span>
-         
+
         </section>
-    </section>    
+        <!---->
+        <div
+          class="mx-auto container mt-16 pb-20 flex flex-col p-6 sm:flex-col md:flex-row lg:flex-row"
+        >
+          <div class="w-full sm:w-full md:w-[95%] gap-5 flex flex-col">
+            <span>
+              <h1
+                class="font-Montserrat text-[#404046] font-[600] opacity-[2] text-[48px] leading-[67px]"
+              >
+              Scenario Planning Software for Small Businesses
+              </h1>
+            </span>
+            <span>
+              <p
+                class="text-[#75767C] font-[400] opacity-70 font-Montserrat sm:max-w-full md:max-w-[365px]"
+              >
+              Scenario planning empowers business owners to identify outcomes and impacts, and to evaluate decisions based on positive and negative possibilities. This process is integral to the success of a small business. By visualizing risks and opportunities, and
+                <span
+                  class="text-blue-300 cursor-pointer hover:border-b-2 hover:border-blue-300"
+                >
+                  model profitability</span
+                >
+                accordingly, you can become proactive and steer toward desired outcomes.
+              </p>
+            </span>
+
+            <span class="flex">
+              <p
+                class="font-Montserrat text-[#3d3c44] opacity-[2] max-w-[331px] font-[500] text-[22px] leading-[33px]"
+              >
+              No credit card required
+              </p>
+            </span>
+            <div class="flex ">
+              <div class="flex flex-col mr-[15px] max-w-[230px]">
+                <button class="h-[44px] mb-[12px] image-hover cursor-pointer bg-[#84c225] text-white inline-flex justify-center font-[500] rounded-lg min-w-[120px] transition-all text-[16px]  hover:bg-lime-200 hover:transition-all" style="padding: 10px 30px;">Get Started</button>
+
+              </div>
+            </div>
+          </div>
+          <div class="w-full h-full flex justify-end">
+            <video
+              controls
+              class="w-full sm:w-full md:w-[95%] h-[70%] rounded-xl shadow-xl"
+              src="images/homepage-animation-1920x1080.mp4"
+            ></video>
+          </div>
+      </div>
+    </section>
+
+    <!---->
+    <section class="w-full" style="padding: 0 0 10px; color: #3d3c44;">
+      <div class="flex flex-row container mx-auto justify-between max-w-[1170px] items-start " style="padding: 50px 0;">
+        <div class="w-full max-w-[550px] h-full max-h-[390px] overflow-hidden rounded-[20px] shadow-lg">
+          <div class="m-0 overflow-hidden">
+            <div class="pt-[56%]"></div>
+            <img style="visibility: inherit; inset: 0px; padding: 0px; border: none; margin: auto; width: 0px; min-height: 100%; min-width: 100%; max-height: 100%; max-width: 100%;" src="./images/interactive-timeline-and-dashboard-690x391.svg" alt="">
+          </div>
+        </div>
+        <div class="flex flex-col justify-between items-start w-[550px] h-full">
+          <div class="mb-[26px] flex flex-col gap-5">
+
+            
+            <h2 class="text-[24px] leading-[33.8px] mb-[20px]">What is Scenario Planning?</h2>
+           
+        
+  
+            <p>
+              <em>
+                “The need for efficient strategic thinking is most obvious in times of accelerated change when the reaction time of the organization becomes crucial to survival and growth.”
+                </em>
+            </p>
+
+            <p>—Kees van der Heijden, Scenarios: The Art of Strategic Conversation</p>
+  
+  
+            <p>Scenario planning is a type of thinking or computer modeling that allows business owners, project managers, and other decision makers to peer into the future and make better forecasts. It involves <a class="text-blue-300" href="https://profitfrog.com/what-is-a-financial-model">creating a financial model</a> based on a potential future.</p>
+  
+            <p>The scenario process involves asking the following two questions.</p>
+            <ol>
+              <li>What could potentially occur? This is the scenario itself.</li>
+              <li>What would be the impact on my business if it did occur? This often involves looking at “best case,” “most likely,” and “worst case” outcomes.</li>
+            </ol>
+            <p>Major business decisions can be scary. Dynamic scenario planning helps you sort a great opportunity from a pitfall. With Profit Frog, you can steer your business toward growth and away from getting mired down.</p>
+            <p>Our scenario planning software lets you model a range of possible outcomes and impacts. Then you can steer your company toward best-case scenarios while preparing for worst-case ones.</p>
+            <ol>
+              <li>Learn where to allocate your resources and when to back down from an investment</li>
+              <li>Be strategically and financially prepared for a worst-case scenario and mitigate its potential impact</li>
+              <li>Identify potential risk and turn it into gain</li>
+              <li>Recognize and seize amazing opportunities</li>
+              <li>Gain confidence in your decision-making skills by preparing for things you can’t control</li>
+              <li>Be ready for disruptive change and take advantage of it rather than being blindsided by it</li>
+              <li>Have your business strategy be proactive rather than reactive</li>
+            </ol>
+          </div>
+          <div class="flex ">
+            <div class="flex flex-col mr-[15px] max-w-[230px]">
+              <button class="h-[44px] mb-[12px] image-hover cursor-pointer bg-[#84c225] text-white inline-flex justify-center font-[500] rounded-lg min-w-[120px] transition-all text-[16px]  hover:bg-lime-200 hover:transition-all" style="padding: 10px 30px;">Try For Free</button>
+
+              <span>No Credit card required</span>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
 
