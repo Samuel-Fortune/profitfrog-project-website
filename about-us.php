@@ -651,8 +651,9 @@
               </p>
             </div>
           </div>
+          
           <div
-            class="rounded-[20px] bg-white min-w-[324px] flex-1"
+            class="rounded-[20px] bg-white min-w-[324px] flex-1 "
             style="padding: 21px 16px 16px"
           >
             <img

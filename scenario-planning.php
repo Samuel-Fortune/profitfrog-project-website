@@ -816,6 +816,34 @@
       </div>
     </section>
 
+    <!--Seventh Section-->
+    <section class="w-full bg-white">
+      <div class="pt-16 pb-16">
+        <div class="mx-auto w-full place-content-center justify-center flex flex-col place-items-center items-center ">
+          <h1 class="text-[36px] font-[600] font-Montserrat leading-[46px] mb-7">Start Your Free Profit Frog Trial Today</h1>
+          <div class="w-full pb-10 place-content-center justify-center flex flex-col place-items-center items-center">
+
+            <p class="text-[#8f8d9e] text-[22px] font-Montserrat opacity-70 font-[600] leading-[33px] ">With proper scenario planning, uncharted waters don’t have to be frightening.</p>
+
+            <p class="text-[#8f8d9e] text-[22px] font-Montserrat opacity-70 font-[600] leading-[33px] ">Make confident decisions, and maximize your profitability with Profit Frog.</p>
+            
+          </div>
+          <button class="bg-lime-400 font-[500] rounded-lg leading-[45px] text-[16px] text-white justify-center items-center  h-full" style="display: inline-flex;
+          justify-content: center;
+          align-items: center;
+          padding: 3px 30px;
+          border: none;
+          min-width: 120px;
+          transition-duration: .2s;
+          text-transform: capitalize;
+          ">Start Free Trial</button>
+        </div>
+
+      </div>
+
+
+    </section>
+
     <!--Profit Frog FAQ Section-->
     <section class="w-full font-Montserrat px-5 flex flex-wrap bg-white place-content-center justify-center mx-auto py-[60px] text-[#3d3c44] box-border">
       <h2 class="w-full font-Montserrat flex  flex-row place-content-center justify-center items-center text-[36px] font-[600] opacity-[2] mb-[50px]">Scenario Planning Frequently Asked Questions</h2>
